@@ -1,6 +1,6 @@
-## Project Overview
-
 # NorthStar Urban Mobility & Logistics
+
+## Project Overview
 
 NorthStar Urban Mobility has grown rapidly through acquisition, leaving its data fragmented across legacy systems and newer semi‑structured platforms. This project applies an integrated analytics pipeline – SQL, R, Python, and MongoDB – to identify the root causes of declining service quality and rising operational costs.
 
