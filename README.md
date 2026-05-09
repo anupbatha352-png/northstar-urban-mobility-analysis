@@ -33,9 +33,12 @@ The analysis combines structured operational data (orders, deliveries, customers
 ## How to Run
 
 1. **Clone or download** this repository
-2. Open any notebook in **Google Colab** (or Jupyter)
-3. Upload the `data/` folder to your Colab session
-4. For the MongoDB notebook, replace the connection string with your own Atlas cluster credentials
+2. The three Jupyter notebooks are located in the root folder:
+   - `NorthStar_Full_Analysis.ipynb`
+   - `NorthStar_Python_Processing.ipynb`
+   - `NorthStar_MongoDB_Atlas.ipynb`
+3. Open any notebook in **Google Colab** (or Jupyter)
+4. Upload the `data/` folder to your Colab session
 
 ---
 
