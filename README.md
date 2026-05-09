@@ -39,6 +39,8 @@ The analysis combines structured operational data (orders, deliveries, customers
    - `NorthStar_MongoDB_Atlas.ipynb`
 3. Open any notebook in **Google Colab** (or Jupyter)
 4. Upload the `data/` folder to your Colab session
+5. For the MongoDB notebook, replace the connection string with your own Atlas cluster credentials
+
 
 ---
 
